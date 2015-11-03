@@ -1,0 +1,17 @@
+*** product level mechanism (technical strategy)
+1. overall view not support keyboard selection till gnome version 3.2
+2. trash with virtual filesystem
+3. auto-login only take effect for system boot up login (not include logout/ login)
+4. seahorse-plugin has been removed (gpg command to replace it with encrypting and decrypting file with gpg key), and seahorse has posibility been replaced by gpg (including seahorse)
+5. notell vpn(openGPL)/ cisco vpn(non-GPL) -- > openVPN (no product different)
+
+
+
+*** meeting minutes
+1. the rule of how we branch our product???
+
+
+
+*** issue to investigate
+1. switch between wifi and eth: continous download and connection auto switch (website specific)
+

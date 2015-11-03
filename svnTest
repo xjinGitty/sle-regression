@@ -1,0 +1,14 @@
+1. https://bugzilla.suse.com/tr_show_case.cgi?case_id=1435421 (add another test step 2. )
+
+### vpn related case:
+* openVPN: 
+	* VPN connection: https://bugzilla.suse.com/tr_show_case.cgi?case_id=1435443 <has been modified with wireless scenario/ refering link TB modified>
+	* server stored CA files is not available: http://147.2.207.159/openvpn-cli/client-ca.key.tgz
+	* not available openVPN steps (gatewaw ping is available): https://bugzilla.suse.com/tr_show_case.cgi?case_id=1435433
+	* openVPN connection https://bugzilla.suse.com/tr_show_case.cgi?case_id=1435444 <has been modified with the wired scenario/ roughly steps>
+* novellVPN: 
+	* not available anymore? : mentioned in https://bugzilla.suse.com/tr_show_case.cgi?case_id=1435443
+	* novellVPN steps not available anymore described in: https://bugzilla.suse.com/tr_show_case.cgi?case_id=1435467 <case to be removed>
+	* openVPN steps not available described in 11sp3 run: https://bugzilla.novell.com/tr_show_case.cgi?case_id=1249018 <case to be modified>
+* vpnConnection Ex/Import:
+	* https://bugzilla.suse.com/tr_show_case.cgi?case_id=1435420 <refering link TB modified>
